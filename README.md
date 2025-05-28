@@ -1,6 +1,6 @@
 <!-- GitHub README: Angelo Afanou -->
 
-# 👋 Hi, I'm Angelo Afanou  
+# 👋 Hi, I'm Angelo  
 **Salesforce Enterprise Architect | AI & Cloud Integrator | GovTech & FinTech Solutions Leader**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelo-blue?logo=linkedin)](https://www.linkedin.com/in/angeloafanou)
