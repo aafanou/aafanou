@@ -33,26 +33,33 @@ Salesforce Enterprise Architect with 10+ years of experience designing, building
 
 ## Certifications
 
-| **Salesforce** | **Agile & Product** | **Amazon Web Services (AWS)** |
-|----------------|---------------------|-------------------------------|
-| Salesforce Certified Service Cloud Consultant | Certified Scrum Master® (CSM) | AWS Certified Cloud Practitioner |
-| Salesforce Certified OmniStudio Developer | Certified Scrum Product Owner® (CSPO®) | AWS Certified Solutions Architect - Associate |
-| Salesforce Certified OmniStudio Consultant |  | AWS Certified Developer - Associate |
-| Salesforce Certified Identity and Access Management Architect |  |  |
-| Salesforce Certified System Architect |  |  |
-| Salesforce Certified Associate |  |  |
-| Salesforce Certified Integration Architect |  |  |
-| Salesforce Certified Experience Cloud Consultant |  |  |
-| Salesforce Certified Sales Cloud Consultant |  |  |
-| Salesforce Certified Development Lifecycle and Deployment Architect |  |  |
-| Salesforce Certified Application Architect |  |  |
-| Salesforce Certified Platform Developer I |  |  |
-| Salesforce Certified Data Architect |  |  |
-| Salesforce Certified Sharing and Visibility Architect |  |  |
-| Salesforce Certified Platform App Builder |  |  |
-| Salesforce Certified Administrator |  |  |
-| Salesforce Certified Data Cloud Consultant |  |  |
+**Salesforce:**
+- Salesforce Certified Service Cloud Consultant
+- Salesforce Certified OmniStudio Developer
+- Salesforce Certified OmniStudio Consultant
+- Salesforce Certified Identity and Access Management Architect
+- Salesforce Certified System Architect
+- Salesforce Certified Associate
+- Salesforce Certified Integration Architect
+- Salesforce Certified Experience Cloud Consultant
+- Salesforce Certified Sales Cloud Consultant
+- Salesforce Certified Development Lifecycle and Deployment Architect
+- Salesforce Certified Application Architect
+- Salesforce Certified Platform Developer I
+- Salesforce Certified Data Architect
+- Salesforce Certified Sharing and Visibility Architect
+- Salesforce Certified Platform App Builder
+- Salesforce Certified Administrator
+- Salesforce Certified Data Cloud Consultant
 
+**Agile & Product:**
+- Certified Scrum Master® (CSM)
+- Certified Scrum Product Owner® (CSPO®)
+
+**Amazon Web Services (AWS):**
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
 
 ---
 
