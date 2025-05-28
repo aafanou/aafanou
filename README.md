@@ -15,7 +15,6 @@
 - [Core Tech Stack](#core-tech-stack)
 - [Certifications](#certifications)
 - [Key Projects](#key-projects)
-- [Testimonial](#testimonial)
 - [Contact](#contact)
 
 ---
@@ -99,13 +98,6 @@ Salesforce Enterprise Architect with 10+ years' experience leading digital trans
 - **NY State**: Scaled contact tracing app to 1M+ users (IVR via AWS)
 - **MIT**: Modernized 50-year royalties platform
 - **Transamerica**: Boosted segmentation impact by 25% via Data Cloud
-
----
-
-## Testimonial
-
-> "Angelo's leadership and technical vision were instrumental in our project's success."  
-> — Director, Fortune 500 Client
 
 ---
 
