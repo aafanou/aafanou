@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Angelo Afanou  
 **Salesforce Enterprise Architect | AI & Cloud Integrator | GovTech & FinTech Solutions Leader**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelo-blue?logo=linkedin)](www.linkedin.com/in/angeloafanou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelo-blue?logo=linkedin)](https://www.linkedin.com/in/angeloafanou)
 
 ---
 
