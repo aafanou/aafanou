@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Angelo Afanou  
 **Salesforce Enterprise Architect | AI & Cloud Integrator | GovTech & FinTech Solutions Leader**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afanou-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelo-blue?logo=linkedin)](www.linkedin.com/in/angeloafanou)
 
 ---
 
@@ -21,13 +21,38 @@ Salesforce Enterprise Architect with 10+ years of experience designing, building
 
 ---
 
-## 🔧 Core Tech Stack
+## Core Tech Stack
 
 | CRM & Cloud | AI & Automation | Dev & Tools |
 |-------------|-----------------|-------------|
 | Salesforce (Core, OmniStudio, Experience Cloud) | AWS Bedrock, Lambda, NLP Models | VS Code, SFDX, Workbench, GitHub Actions |
 | Marketing Cloud & Data Cloud | Multilingual Flows, Auto-approval engines | Salesforce CLI, Cursor.ai, DevHub |
 | Apex, LWC, REST APIs | Smart routing, JIT handlers | CI/CD, Test Coverage 95%+ |
+
+---
+
+## Certifications
+
+| **Salesforce** | **Agile & Product** | **Amazon Web Services (AWS)** |
+|----------------|---------------------|-------------------------------|
+| Salesforce Certified Service Cloud Consultant | Certified Scrum Master® (CSM) | AWS Certified Cloud Practitioner |
+| Salesforce Certified OmniStudio Developer | Certified Scrum Product Owner® (CSPO®) | AWS Certified Solutions Architect - Associate |
+| Salesforce Certified OmniStudio Consultant |  | AWS Certified Developer - Associate |
+| Salesforce Certified Identity and Access Management Architect |  |  |
+| Salesforce Certified System Architect |  |  |
+| Salesforce Certified Associate |  |  |
+| Salesforce Certified Integration Architect |  |  |
+| Salesforce Certified Experience Cloud Consultant |  |  |
+| Salesforce Certified Sales Cloud Consultant |  |  |
+| Salesforce Certified Development Lifecycle and Deployment Architect |  |  |
+| Salesforce Certified Application Architect |  |  |
+| Salesforce Certified Platform Developer I |  |  |
+| Salesforce Certified Data Architect |  |  |
+| Salesforce Certified Sharing and Visibility Architect |  |  |
+| Salesforce Certified Platform App Builder |  |  |
+| Salesforce Certified Administrator |  |  |
+| Salesforce Certified Data Cloud Consultant |  |  |
+
 
 ---
 
